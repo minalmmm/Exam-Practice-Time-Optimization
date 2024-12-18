@@ -26,7 +26,12 @@ This project is an excellent tool for analyzing the correlation between the time
 - **Seaborn** & **Matplotlib**: Data visualization libraries for plotting graphs and charts.
 
 ## Output
-
+![Output Image 1](https://github.com/minalmmm/Exam-Practice-Time-Optimization/blob/main/images/img1.png)
+![Output Image 1](https://github.com/minalmmm/Exam-Practice-Time-Optimization/blob/main/images/img11.png)
+![Output Image 1](https://github.com/minalmmm/Exam-Practice-Time-Optimization/blob/main/images/img2.png)
+![Output Image 1](https://github.com/minalmmm/Exam-Practice-Time-Optimization/blob/main/images/img3.png)
+![Output Image 1](https://github.com/minalmmm/Exam-Practice-Time-Optimization/blob/main/images/img4.png)
+![Output Image 1](https://github.com/minalmmm/Exam-Practice-Time-Optimization/blob/main/images/img5.png)
 
 
 
